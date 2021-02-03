@@ -17,11 +17,11 @@
 
 "all": vue@2.0.0
 
-"beidian_m": koa-etag@2.1.1
+"package-lock-test": vue@2.0.0
 
 ### 1、工程名: 依赖包@版本
 
-例如 "beidian_m": koa-etag@2.1.1
+例如 "package-lock-test": vue@2.0.0
 
 注意：
 
